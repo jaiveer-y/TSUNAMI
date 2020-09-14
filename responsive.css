@@ -1,0 +1,91 @@
+/*iPhone 5 in portrait & landscape*/
+@media only screen and ( min-device-width : 320px) and ( max-device-width : 568px) {
+    .welcome-title{ margin: 0 0 25px; clear: both;}
+    .welcome-title h2{ margin-bottom: 10px;}
+    .navbar-brand.logo { margin-left: 10px;}
+    .services{ padding: 50px 40px 0px 40px;}
+    .services .first, .services .second, .services .three{
+        padding-bottom: 35px;
+    }
+    .services .h_line{ margin-top: 0;}
+    .members{
+        padding-bottom: 25px;
+    }
+    .testimonials{ margin-top: 0;}
+    .testimonials .testi_text{ padding-top: 0; position: relative; top: -15px;}
+    .testimonials .testi .right{
+        position: relative;
+        clear: both;
+        top: 40px;
+    }
+    .testimonials .testi .text{
+        clear: both;
+        position: relative;
+        top: 15px;
+    }
+    .nav.navbar-nav{ padding-top: 23px; width: 100%; text-align: center; margin: 0 auto; position: relative; left: -5px;}
+    .feature{ top: 0; margin-top: 0;}
+    .feature .features .feature1{ padding-bottom: 0;}
+    .feature{ padding: 0 10px 30px; }
+    .feature .f_title{
+        font-size: 28px;
+        margin: 0 auto;
+    }
+    .blog-bg .folio{ position: relative; top: -35px;}
+    .blog-bg .blog{ padding-top: 0; padding-bottom: 20px;}
+    .blogs.last{ padding-bottom: 0;}
+    .blog-bg .folio .col-md-3 a img{ margin: 0 auto; }
+    .blogs .col-md-6 a img{ margin: 0 auto; }
+    .team .team_title{ margin-top: 0;}
+    .testimonials .testi .image{ float: none;  }
+    .testimonials .testi .text p, .testimonials .testi .text span { width: 100%; text-align: center; margin: 0 auto;  padding: 0 0 10px 10px; }
+    .footer .contact{ padding-top: 0px; padding-left: 10px;}
+    .testimonials{ background:#050505;}
+    .footer .about{ padding-top: 0;}
+    .footer .about h3{ text-align: center;}
+    .footer .contact h3{ text-align: center;}
+    .footer .about p{ margin: 0 auto 20px; text-align: center;}
+ }
+/*iPhone 5 in portrait & landscape over*/
+/* iPhone 5 in portrait */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+    .footer .contact .email-form .text-email{ padding: 18px 8px; width: inherit;}
+}
+/* iPhone 5 in landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+    .footer .contact .email-form{ text-align: center;}
+}
+
+/*iPad in portrait & landscape*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .services .first, .services .second, .services .three{
+        padding-bottom: 35px;
+    }
+    .members{
+        padding-bottom: 25px;
+    }
+ }
+/*iPad in portrait*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+.blog-bg .folio .col-md-3 a img{ margin: 0 auto; }
+.blogs .col-md-6 a img{ margin: 0 auto; }
+.testimonials .testi .right{
+    position: relative;
+    clear: both;
+    top: 40px;
+}
+.footer .contact{ padding-top: 0px; padding-left: 0px;}
+.welcome-title{ margin: 30px 0 30px; clear: both;}
+.welcome-title h2{ margin-bottom: 10px; }
+.testimonials{ background:#050505;}
+.testimonials .testi .text p,.testimonials .testi .text span{ width: 75%;}
+.footer .about{ padding-top: 0;}
+.footer .about h3{ text-align: center;}
+.footer .contact h3{ text-align: center;}
+.footer .about p{ margin: 0 auto 20px; text-align: center;}
+.footer .contact .email-form{ text-align: center;}
+}
+/*iPad in landscape*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {}
