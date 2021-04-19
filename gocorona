@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T08:59:18.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.1" etag="eR0DruwFUqOFxtenaSYX" type="github"><diagram id="ay80yf7VPPVDFw5bvrFZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-19T09:05:17.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="kcZTYQ1wZfkbA06o4s73" version="14.6.1" type="github">
+  <diagram id="ay80yf7VPPVDFw5bvrFZ" name="Page-1">
+    <mxGraphModel dx="1019" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N9R47N5B0DnK4tZZroy3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="740" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="N9R47N5B0DnK4tZZroy3-3" value="GoCorona" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="N9R47N5B0DnK4tZZroy3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N9R47N5B0DnK4tZZroy3-6" value="worldwide" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="45" width="132" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N9R47N5B0DnK4tZZroy3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="460" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="N9R47N5B0DnK4tZZroy3-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/apple-ios7-icons/118/maps_ios7_ios_7.png;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="195" width="280" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
